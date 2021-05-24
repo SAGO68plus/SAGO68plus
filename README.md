@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SAGO68plus
-- 👀 I’m interested in UX Design，Python and Unity
-- 🌱 I’m currently learning Python and Open-CV
+- 👀 I’m interested in UX Design，Android development and Unity
+- 🌱 I’m currently learning Python, Open-CV, Java, Dart and JavaScript.
 - 💞️ I’m looking to collaborate on VR development 
-- 📫 contact me at 215121966@qq.com
+- 📫 contact me at davidy1999@outlook.com
 
 <!---
 SAGO68plus/SAGO68plus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
