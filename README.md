@@ -8,4 +8,4 @@
 - 📫 contact me at davidy1999@outlook.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAGO68plus&show_icons=true&count_private=true)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@SAGO68plus)](https://github.com/@SAGO68plus/github-readme-stats)
