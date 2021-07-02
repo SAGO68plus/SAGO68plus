@@ -8,4 +8,3 @@
 - 📫 contact me at davidy1999@outlook.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAGO68plus&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAGO68plus)](https://github.com/SAGO68plus/github-readme-stats)
