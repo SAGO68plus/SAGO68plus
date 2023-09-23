@@ -17,8 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text    0 secs          ██████████████████████░░░   87.96 %
-Ezhil   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+JavaScript   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
