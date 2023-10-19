@@ -13,12 +13,3 @@
   <span>  </span>
 </div>
 
-#### Coding status last week
-<!--START_SECTION:waka-->
-
-```txt
-Python   56 mins         ████████████████████▓░░░░   82.07 %
-Text     12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
-```
-
-<!--END_SECTION:waka-->
